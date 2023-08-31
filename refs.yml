@@ -1,0 +1,132 @@
+claeys2018cryptocurrency:
+  type: Article
+  title: "Cryptocurrencies and monetary policy"
+  date: 2018
+  author:
+    - Gregory Claeys
+    - Maria Demertzis
+    - Konstantinos Efstathiou
+  publisher: Brussels European and Global Economic Laboratory
+  url: https://www.bruegel.org/policy-brief/cryptocurrencies-and-monetary-policy
+
+bundesbank2022geld:
+  type: Article
+  title: 
+    value: Geld und Geldpolitik
+    sentence-case: Geld und Geldpolitik
+  date: 2022
+  author: Deutsche Bundesbank
+  publisher: Deutsche Bundesbank
+  url: https://www.bundesbank.de/resource/blob/606038/79786120337268ad14bddbb8afbb187b/mL/geld-und-geldpolitik-data.pdf
+
+villaverde2018digitalcurrencies:
+  type: Article
+  title: On the Economics of Digital Currencies
+  date: 2018
+  author:
+    - Jesus Fernandez-Villaverde
+    - Daniel Sanches
+  publisher: Federal Reserve Bank of Philadelphia
+  url: https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-07.pdf
+
+tomic2020monetarypolicy:
+  type: Article
+  title: The potential effects of cryptocurrencies on monetary policy
+  date: 2020
+  author:
+    - Nenad Tomic
+    - Violeta Todorovic
+    - Bozidar Cakajac
+  publisher: The European Journal of Applied Economics
+  url: https://pdfs.semanticscholar.org/4318/a4a0b827ac33b93c4630dda68e18eadca67a.pdf
+
+lagos2004framework:
+  type: Article
+  title: A Unified Framework for Monetary Theory and Policy Analysis
+  date: 2004
+  author:
+    - Ricardo Lagos
+    - Randall Wright
+  publisher: Federal Reserve Bank of Minneapolis
+  url: https://researchdatabase.minneapolisfed.org/downloads/z029p484q
+
+alvarez2022elsalvador:
+  type: Article
+  title: Are cryptocurrencies currencies? BitCoin as legal tender in El Salvador
+  date: 2022
+  author:
+    - Fernando E. Alvarez
+    - David Argente
+    - Diana Van Patten
+  publisher: National Bureau of Economic Research
+  url: https://www.nber.org/system/files/working_papers/w29968/w29968.pdf
+
+coindesk2022luna:
+  type: Article
+  title: "The Fall of Terra: A Timeline of the Meteoric Rise and Crash of UST and LUNA"
+  date: 2022
+  author:
+    - Krisztian Sandor
+    - Ekin Genc
+  publisher: Coindesk
+  url: https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna/
+  
+blockchain2023confirmationtime:
+  type: Web
+  title: Median Confirmation Time
+  date: 2023
+  publisher: Blockchain.com Inc
+  url: https://www.blockchain.com/explorer/charts/median-confirmation-time
+
+blockchain2023transactioncost:
+  type: Web
+  title: Cost per Transaction
+  date: 2023
+  publisher: Blockchain.com Inc
+  url: https://www.blockchain.com/explorer/charts/cost-per-transaction
+
+stevenot2022bitcoincap:
+  type: Article
+  title: How does the bitcoin source code define its 21 million cap?
+  date: 2022
+  author:
+    - Ted Stevenot
+    - Stephen Hall
+  publisher: Unchained.com
+  url: https://unchained.com/blog/bitcoin-source-code-21-million/
+
+ecb2023monetarypolicy:
+  type: Article
+  title: Monetary policy decisions
+  publisher: European Central Bank
+  url: https://www.ecb.europa.eu/mopo/decisions/html/index.en.html
+
+hayes2022stablecoins:
+  type: Article
+  title: "Stablecoins: Definition, How They Work and Types"
+  date: 2022
+  publisher: Investopedia
+  author:
+    - Adam Hayes
+    - Julius Mansa
+    - Skylar Clarine
+  url: https://www.investopedia.com/terms/s/stablecoin.asp
+
+elsalvador2001dollar:
+  type: Article
+  title: Monetary integration
+  date: 2001
+  publisher: Banco Central de Reserva de El Salvador
+  url: https://web.archive.org/web/20070708094105/http://www.bcr.gob.sv/ingles/integracion/ley.html
+
+ecb2023transmissionmechanism:
+  type: Article
+  title: Transmission mechanism of monetary policy
+  publisher: European Central Bank
+  url: https://www.ecb.europa.eu/mopo/intro/transmission/html/index.en.html
+
+bbc2021elsalvador:
+  type: Article
+  title: "Bitcoin: El Salvador plans to make cryptocurrency legal tender"
+  publisher: BBC
+  url: https://www.bbc.com/news/world-latin-america-57373058
